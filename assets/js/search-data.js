@@ -441,13 +441,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63%68%72%69%73%74%69%61%6E.%6C%6F%63%61%74%65%6C%6C%69@%75%6E%69-%77%75%70%70%65%72%74%61%6C.%64%65", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
